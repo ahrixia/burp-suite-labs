@@ -1,5 +1,7 @@
-# Port Swigger Burp Suite Labs
-Port Swigger Labs divided on the based of level and topic.
+# [Port Swigger Burp Suite Labs](https://portswigger.net/web-security/all-labs)
+All Port Swigger Labs divided on the based of level and topic. If you are looking for labs to practice for Burp Suite Certified Practitioner you can follow the Apprentice and Practitioner labs.
+
+##### Last Updated on: 15 March, 2022
 
 ## APPRENTICE
 ### [SQL Injection](https://portswigger.net/web-security/sql-injection)
